@@ -1,5 +1,5 @@
 # laptop hash with 8 keys and values
-LAPTOP = {
+laptop = {
   user_name: "Ian Ross",
   password: "Turing!",
   number_of_apps: 6,

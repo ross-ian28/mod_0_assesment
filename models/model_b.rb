@@ -1,4 +1,4 @@
-HOUSE = {
+house = {
   year_house_bought: "2016",
   fire_place_type: "electrical",
   chairs: 6,
